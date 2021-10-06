@@ -62,7 +62,7 @@ Texas produces more electricity than any other state, generating almost twice as
 The representation of the highest energy generation utilities along with their sources i.e., Natural gas is at the top followed by coal, wind, solar.
 
 
-![](https://static.wixstatic.com/media/2476b5_8870782676894bd5ab3d0804c09bb1cf~mv2.png/v1/fill/w_1066,h_599,al_c,q_95/2476b5_8870782676894bd5ab3d0804c09bb1cf~mv2.webp)
+![](https://github.com/ANKIT-unbroken/Energy-Generation-using-non-Renewable-sources-in-the-U.S./blob/main/Dashboard.png)
 
 
 Florida Power & Light is the biggest Natural Gas utility in the Sunshine State with almost 4.9 million customers across the peninsula.
