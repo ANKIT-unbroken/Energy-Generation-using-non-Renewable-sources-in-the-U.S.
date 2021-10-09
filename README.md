@@ -68,3 +68,11 @@ The representation of the highest energy generation utilities along with their s
 Florida Power & Light is the biggest Natural Gas utility in the Sunshine State with almost 4.9 million customers across the peninsula.
 
 
+references links
+
+(https://www.eia.gov/todayinenergy/)
+
+(https://www.power-technology.com/projects/)
+
+
+
